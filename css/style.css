@@ -27,3 +27,16 @@ a{
 .skill{
     text-shadow:chocolate,;
 }
+
+.right{
+    padding-left: 3%;
+   background-color:lightgrey;
+}
+
+.remote{
+   margin-top: -12px;
+}
+
+.row{
+    border:7px solid rgb(3, 83, 14)
+}
